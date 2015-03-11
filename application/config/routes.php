@@ -40,8 +40,8 @@
 
 //$route['default_controller'] = "welcome";
 
-$route['default_controller'] = "property/index";
-$route['property/logincheck'] = "/property/logincheck";
+$route['default_controller'] = "property";
+//$route['property/logincheck'] = "property/logincheck";
 $route['404_override'] = '';
 
 
